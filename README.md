@@ -5,4 +5,3 @@
   - Patients Data table.
   - Pharamacy Transactions table.
   - and Visits table.
- - Above is the analyzed Power Bi report,important insights pdf report and also a presented Dashboard.
